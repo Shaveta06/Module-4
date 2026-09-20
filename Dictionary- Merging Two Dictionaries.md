@@ -1,6 +1,6 @@
 ## Dictionary Operations in Python: Merging Two Dictionaries
-## ANME: MONISHA P
-## REF NO: 25018486
+## NAME:R.SHAVETA
+## REF NO: 25014945
 ## 🎯 Aim
 To write a Python program that merges **two dictionaries** and combines their key-value pairs.
 
